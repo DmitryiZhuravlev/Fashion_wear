@@ -10,7 +10,8 @@ body {
     font-weight: 400;
     font-style: normal;
     background: linear-gradient(90deg, #ffffff 47.8%, #d9e3ef 50%);   
-    width: 1920px;
+    max-width: 1920px;
+    width: 100%;
     
     height: auto;
 }
